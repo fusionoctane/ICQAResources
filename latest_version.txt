@@ -1,1 +1,2 @@
 1.2.9
+URL=https://github.com/fusionoctane/ICQAResources/raw/main/ICQA%20Resources.exe
